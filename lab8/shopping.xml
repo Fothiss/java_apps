@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<shopping_list>
+            
+
+    
+    <product>
+                
+        <name>bread</name>
+                
+        <quantity>1</quantity>
+                
+        <unit>p</unit>
+            
+    </product>
+    
+    <product>
+        <name>milk</name>
+        <quantity>1</quantity>
+        <unit>pack</unit>
+    </product>
+</shopping_list>
